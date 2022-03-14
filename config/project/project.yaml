@@ -1,0 +1,45 @@
+dateModified: 1647280197
+email:
+  fromEmail: admin@email.com
+  fromName: 'Craft Template'
+  transportType: craft\mail\transportadapters\Sendmail
+meta:
+  __names__:
+    03cb41c4-f1db-4c69-8c5a-df976dcd7112: Common # Common
+    4a8ba76a-9eca-4363-8cc7-0ba1fcf8121f: Konfiguration # Konfiguration
+    20eea143-9262-45d5-9bda-c194538bc233: Schlüssel # Schlüssel
+    335c5090-e644-4054-b7b8-ed197841c460: Primary # Primary
+    3899cca3-d007-4480-8e7a-490a9a40b162: Homepage # Homepage
+    5818ae08-8ea6-4819-bcc8-b5a62fb9449d: Default # Default
+    63657dc5-99ac-4003-bc45-b7f36b1e6db6: Text # Text
+    448735f9-264e-4c63-9b57-8a85729838e1: Globals # Globals
+    62832241-339f-4b80-84d1-f6f69e2ed403: 'Craft Template' # Craft Template
+    81213431-ae0b-4916-adc4-2523eda265a1: Farbschema # Farbschema
+    c9b9a04f-b5b9-4b9f-9747-6e297b5dae62: 'Craft Template EN' # Craft Template EN
+    c324bba9-c29c-4c03-a262-e62fdd3b8209: Blog # Blog
+    da46702f-20ed-497f-91d2-75921b957cf8: 'Craft Template DE' # Craft Template DE
+    e635b731-3846-404b-bba9-540c7928e9c9: Homepage # Homepage
+    e65334b6-f04b-448b-873c-4d02d88d254d: Übersetzungen # Übersetzungen
+    f6d6e3d2-41d5-443b-bd34-a951fe78fcc9: Secondary # Secondary
+    fe8f9a64-62e5-4b93-8e6a-480f66783b92: 'Craft Template FR' # Craft Template FR
+plugins:
+  redactor:
+    edition: standard
+    enabled: true
+    schemaVersion: 2.3.0
+  super-table:
+    edition: standard
+    enabled: true
+    schemaVersion: 2.2.1
+system:
+  edition: solo
+  live: true
+  name: 'Craft Template'
+  schemaVersion: 3.7.33
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  requireEmailVerification: true

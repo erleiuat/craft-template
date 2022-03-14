@@ -1,0 +1,22 @@
+defaultPlacement: end
+enableVersioning: true
+handle: homepage
+name: Homepage
+propagationMethod: all
+siteSettings:
+  c9b9a04f-b5b9-4b9f-9747-6e297b5dae62: # Craft Template EN
+    enabledByDefault: true
+    hasUrls: true
+    template: null
+    uriFormat: __home__
+  da46702f-20ed-497f-91d2-75921b957cf8: # Craft Template DE
+    enabledByDefault: true
+    hasUrls: true
+    template: null
+    uriFormat: __home__
+  fe8f9a64-62e5-4b93-8e6a-480f66783b92: # Craft Template FR
+    enabledByDefault: true
+    hasUrls: true
+    template: null
+    uriFormat: __home__
+type: single

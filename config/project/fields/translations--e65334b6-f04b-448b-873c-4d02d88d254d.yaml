@@ -1,0 +1,36 @@
+columnSuffix: mvjqqmlc
+contentColumnType: string
+fieldGroup: 448735f9-264e-4c63-9b57-8a85729838e1 # Globals
+handle: translations
+instructions: ''
+name: Übersetzungen
+searchable: false
+settings:
+  columns:
+    __assoc__:
+      -
+        - 20eea143-9262-45d5-9bda-c194538bc233 # Schlüssel
+        -
+          __assoc__:
+            -
+              - width
+              - ''
+      -
+        - 63657dc5-99ac-4003-bc45-b7f36b1e6db6 # Text
+        -
+          __assoc__:
+            -
+              - width
+              - ''
+  contentTable: '{{%stc_translations}}'
+  fieldLayout: table
+  maxRows: ''
+  minRows: ''
+  placeholderKey: null
+  propagationKeyFormat: null
+  propagationMethod: siteGroup
+  selectionLabel: 'Übersetzung hinzufügen'
+  staticField: ''
+translationKeyFormat: null
+translationMethod: site
+type: verbb\supertable\fields\SuperTableField

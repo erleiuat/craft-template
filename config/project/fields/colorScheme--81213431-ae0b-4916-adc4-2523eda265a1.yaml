@@ -1,0 +1,20 @@
+columnSuffix: null
+contentColumnType: string
+fieldGroup: 448735f9-264e-4c63-9b57-8a85729838e1 # Globals
+handle: colorScheme
+instructions: ''
+name: Farbschema
+searchable: false
+settings:
+  contentTable: '{{%stc_colorscheme}}'
+  fieldLayout: table
+  maxRows: ''
+  minRows: ''
+  placeholderKey: null
+  propagationKeyFormat: null
+  propagationMethod: all
+  selectionLabel: ''
+  staticField: '1'
+translationKeyFormat: null
+translationMethod: site
+type: verbb\supertable\fields\SuperTableField

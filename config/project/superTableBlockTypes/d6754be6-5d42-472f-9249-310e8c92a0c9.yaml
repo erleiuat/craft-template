@@ -1,0 +1,67 @@
+field: e65334b6-f04b-448b-873c-4d02d88d254d # Übersetzungen
+fieldLayouts:
+  b19baa6c-281e-48ae-be45-04182f936523:
+    tabs:
+      -
+        elements:
+          -
+            fieldUid: 20eea143-9262-45d5-9bda-c194538bc233 # Schlüssel
+            instructions: null
+            label: null
+            required: true
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            warning: null
+            width: 100
+          -
+            fieldUid: 63657dc5-99ac-4003-bc45-b7f36b1e6db6 # Text
+            instructions: null
+            label: null
+            required: true
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            warning: null
+            width: 100
+        name: Content
+        sortOrder: 1
+fields:
+  20eea143-9262-45d5-9bda-c194538bc233: # Schlüssel
+    columnSuffix: null
+    contentColumnType: text
+    fieldGroup: null
+    handle: key
+    instructions: ''
+    name: Schlüssel
+    searchable: true
+    settings:
+      byteLimit: null
+      charLimit: null
+      code: '1'
+      columnType: null
+      initialRows: '4'
+      multiline: ''
+      placeholder: null
+      uiMode: normal
+    translationKeyFormat: null
+    translationMethod: none
+    type: craft\fields\PlainText
+  63657dc5-99ac-4003-bc45-b7f36b1e6db6: # Text
+    columnSuffix: null
+    contentColumnType: text
+    fieldGroup: null
+    handle: text
+    instructions: ''
+    name: Text
+    searchable: false
+    settings:
+      byteLimit: null
+      charLimit: null
+      code: ''
+      columnType: null
+      initialRows: '4'
+      multiline: ''
+      placeholder: null
+      uiMode: normal
+    translationKeyFormat: null
+    translationMethod: language
+    type: craft\fields\PlainText

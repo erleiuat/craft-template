@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+
+<html lang="{{ currentSite.language[0:2] }}">
+
+    <head></head>
+
+    <body>
+
+        <header aria-label="main" role="banner">
+            {% block header %}
+                {# content #}
+            {% endblock %}
+        </header>
+
+        <main role="main">
+            {% block main %}
+                {# content #}
+            {% endblock %}
+        </main>
+
+        <footer role="contentinfo">
+            {% block footer %}
+                {# content #}
+            {% endblock %}
+        </footer>
+
+    </body>
+
+</html>

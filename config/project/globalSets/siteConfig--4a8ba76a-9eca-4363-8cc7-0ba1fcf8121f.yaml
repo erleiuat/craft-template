@@ -1,0 +1,32 @@
+fieldLayouts:
+  8f3e3143-6220-4c55-a044-09ab7d9acfc5:
+    tabs:
+      -
+        elements:
+          -
+            fieldUid: e65334b6-f04b-448b-873c-4d02d88d254d # Übersetzungen
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            warning: null
+            width: 100
+        name: Übersetzungen
+        sortOrder: 1
+      -
+        elements:
+          -
+            fieldUid: 81213431-ae0b-4916-adc4-2523eda265a1 # Farbschema
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            warning: null
+            width: 100
+        name: Farbschema
+        sortOrder: 2
+handle: siteConfig
+name: Konfiguration
+sortOrder: 1

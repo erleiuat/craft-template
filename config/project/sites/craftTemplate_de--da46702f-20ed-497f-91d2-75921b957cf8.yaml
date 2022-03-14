@@ -1,0 +1,9 @@
+baseUrl: $PRIMARY_SITE_URL
+enabled: true
+handle: craftTemplate_de
+hasUrls: true
+language: de
+name: 'Craft Template DE'
+primary: true
+siteGroup: 62832241-339f-4b80-84d1-f6f69e2ed403 # Craft Template
+sortOrder: 1

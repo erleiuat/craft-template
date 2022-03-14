@@ -1,0 +1,53 @@
+field: 81213431-ae0b-4916-adc4-2523eda265a1 # Farbschema
+fieldLayouts:
+  549b260a-4e38-4f4a-97b7-fb3687f02342:
+    tabs:
+      -
+        elements:
+          -
+            fieldUid: 335c5090-e644-4054-b7b8-ed197841c460 # Primary
+            instructions: null
+            label: null
+            required: true
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            warning: null
+            width: 100
+          -
+            fieldUid: f6d6e3d2-41d5-443b-bd34-a951fe78fcc9 # Secondary
+            instructions: null
+            label: null
+            required: true
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            warning: null
+            width: 100
+        name: Content
+        sortOrder: 1
+fields:
+  335c5090-e644-4054-b7b8-ed197841c460: # Primary
+    columnSuffix: niqkdnie
+    contentColumnType: string(7)
+    fieldGroup: null
+    handle: primary
+    instructions: ''
+    name: Primary
+    searchable: false
+    settings:
+      defaultColor: ''
+    translationKeyFormat: null
+    translationMethod: none
+    type: craft\fields\Color
+  f6d6e3d2-41d5-443b-bd34-a951fe78fcc9: # Secondary
+    columnSuffix: sysggjjo
+    contentColumnType: string(7)
+    fieldGroup: null
+    handle: secondary
+    instructions: ''
+    name: Secondary
+    searchable: false
+    settings:
+      defaultColor: ''
+    translationKeyFormat: null
+    translationMethod: none
+    type: craft\fields\Color
